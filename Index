@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Está é a Página Principal</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <div>   
+            <div class="logo">
+                <img src="assets/images/logo.png" width="200" alt="Logotipo"/>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="bar"></div>
+
+        <div class="content">
+            <div class="sidebar">
+                <h2>Tecnologia</h2>
+                <ul>
+                    <li><a href="https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_cient%C3%ADfica" >Computação científica</a></li>  
+                    <li><a href="https://pt.wikipedia.org/wiki/Inform%C3%A1tica" >Informática</a></li>
+                    <li><a href="https://pt.wikipedia.org/wiki/Modelagem_computacional" >Modelagem computacional</a></li>
+                    <li><a href="https://pt.wikipedia.org/wiki/Teoria_da_computa%C3%A7%C3%A3o">Teoria da computação</a></li>       
+                </ul>
+            </div>
+
+            <div class="main">
+                <h1  title="Computação" >Computação <hr></h1>
+                <div>
+                    <a title="Debeo Morium, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Disambig_gray_CC-BY.svg"><img width="16" alt="Disambig gray CC-BY" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Disambig_gray_CC-BY.svg/16px-Disambig_gray_CC-BY.svg.png"></a><B>Nota: </B>Para a área acadêmico-profissional, veja <a href="https://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_computa%C3%A7%C3%A3o" title = "Ciência da computação"> Ciência da computação.</a> 
+                </div>
+                
+
+                <figure>
+                    <img src="assets/images/GalvesLocherbach_-_Low_resolution.gif" alt="simulação de computador">
+                    <figcaption>Simulação de computador, uma das principais metodologias de computação cruzada.</figcaption>
+                </figure>
+
+                <p>
+                    A computação é qualquer atividade orientada a objetivos que exija, se beneficie ou crie máquinas de computação.[2] Ela inclui o estudo e a experimentação de processos algorítmicos e o desenvolvimento de hardware e software. A computação tem aspectos científicos, de engenharia, matemáticos, tecnológicos e sociais. Pode ser definida como a busca de solução para um problema a partir de entradas (inputs), de forma a obter resultados (outputs) depois de processada a informação através de um algoritmo.[3] É com isto que lida a teoria da computação, subcampo da ciência da computação e da matemática. Disciplinas de computação incluem engenharia da computação, ciência da computação, segurança cibernética, ciência de dados, sistemas de informação, tecnologia da informação, arte digital e engenharia de software.[4]
+                </p>
+                <p>
+                    O termo computação também é sinônimo de contagem e cálculo. Antigamente, era usado em referência à ação executada por máquinas de computação mecânica e, antes disso, por computadores humanos.[5]
+                </p>
+                <h2><a name="História"></a> História <hr></h2>
+                Ver também: <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_hardware" title="Hardware history">História do hardware</a>
+                <figure>
+                    <img src="assets/images/ENIAC-changing_a_tube.jpg" alt="Eniac primeiro computador">
+                </figure>
+                <p>
+                    O termo computação tem origem no latim, computatio, que indica cálculo ou conta matemática
+                </p>
+
+                <p>
+                    A história da computação é mais longa do que a história do hardware de computação e inclui a história dos métodos destinados à caneta e ao papel (ou ao giz e à lousa) com ou sem o auxílio de tabelas.[7] A computação está intimamente ligada à representação de números, embora os conceitos matemáticos necessários para a computação existissem antes dos sistemas numéricos. A ferramenta mais antiga conhecida para uso em computação é o ábaco, utilizado por diversas civilizações ao redor do mundo, como o Império Romano e o Egito Antigo.[6] Acredita-se que tenha sido inventado na Babilônia por volta de 2700-2300 a.C.
+                </p>
+
+                <p>
+                    A primeira proposta registrada para o uso da eletrônica digital na computação foi o artigo de 1931 "The Use of Thyratrons for High Speed Automatic Counting of Physical Phenomena" ("O uso de Tiratrons para Contagem Automática de Fenômenos Físicos em Alta Velocidade"), de C. E. Wynn-Williams.[8] O artigo de 1938 de Claude Shannon "A Symbolic Analysis of Relay and Switching Circuits" (Uma Análise Simbólica de Circuitos de Relés e Comutação") introduziu a ideia de usar a eletrônica para operações algébricas boolianas.
+                </p>
+
+                <p>
+                    O conceito de um transistor de efeito de campo foi proposto por Julius Edgar Lilienfeld em 1925. John Bardeen e Walter Brattain, enquanto trabalhavam com William Shockley no Bell Labs, construíram o primeiro transistor funcional, o transistor de contato pontual, em 1947.[9][10] Em 1953, a Universidade de Manchester construiu o primeiro computador transistorizado, o Manchester Baby.[11] No entanto, os primeiros transistores de junção eram dispositivos relativamente volumosos e difíceis de produzir em massa, o que os limitava a várias aplicações especializadas.[12] O transistor de efeito de campo de óxido metálico e silício (MOSFET ou transistor TECMOS) foi inventado por Mohamed Atalla e Dawon Kahng nos Laboratórios Bell em 1959.[13][14] O MOSFET possibilitou a construção de circuitos integrados de alta densidade,[15][16] levando ao que é conhecido como a revolução dos computadores[17] ou revolução dos microcomputadores.[18]
+                </p>
+
+                <p>
+                    A partir da segunda metade do século XX, com o advento dos computadores eletrônicos, a Computação passou a ter uma presença cada vez mais marcante na sociedade, influenciando a vida diária de parte da população mundial. Nesse período, a Computação ganhou o status de Ciência, surgindo então o termo ciência da computação, uma área do conhecimento humano hoje fortemente ligada à produção de software.
+                </p>
+
+                <p>
+                    Os algoritmos computacionais hoje estão presentes na rede mundial de computadores (internet), bem como em smartphones, computadores pessoais e outros dispositivos que executam processamento de dados.[19]
+                </p>
+
+                <h2><a name="Computador"></a> Computador <hr></h2>
+                <span>
+                    <a title="Derferman, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Magnifying_glass_icon.svg"><img width="16" alt="Magnifying glass icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magnifying_glass_icon.svg/16px-Magnifying_glass_icon.svg.png"></a>Ver artigo principal: 
+                    <a href="https://pt.wikipedia.org/wiki/Computador">Computador</a>
+                </span>
+
+                <p>
+                    Um computador é uma máquina que manipula dados de acordo com um conjunto de instruções chamado programa de computador. O programa tem uma forma executável que o computador pode usar diretamente para executar as instruções. O mesmo programa, em sua forma de código-fonte legível por humanos, permite que um programador estude e desenvolva uma sequência de etapas conhecida como algoritmo. Como as instruções podem ser executadas em diferentes tipos de computadores, um único conjunto de instruções de origem é convertido em instruções de máquina de acordo com o tipo de CPU.
+                </p>
+
+                <p>
+                    O processo de execução executa as instruções em um programa de computador. As instruções expressam os cálculos realizados pelo computador. Elas acionam sequências de ações simples na máquina de execução. Essas ações produzem efeitos de acordo com a semântica das instruções.
+                </p>
+
+                <h3><a name="Hardware de computador"></a> Hardware de computador <hr></h3>
+                <span>
+                    <a title="Derferman, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Magnifying_glass_icon.svg"><img width="16" alt="Magnifying glass icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magnifying_glass_icon.svg/16px-Magnifying_glass_icon.svg.png"></a>Ver artigo principal: 
+                    <a href="https://pt.wikipedia.org/wiki/Hardware">Hardware</a>
+                </span>
+                <p>
+                    O hardware de computador inclui as partes físicas de um computador, inclusive a unidade central de processamento, a memória e a entrada/saída. A lógica computacional e a arquitetura do computador são tópicos importantes no campo do hardware de computador.
+                </p>
+
+                <h3><a name="Software de computador"></a> Software de computador <hr></h3> 
+                <span>
+                    <a title="Derferman, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Magnifying_glass_icon.svg"><img width="16" alt="Magnifying glass icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magnifying_glass_icon.svg/16px-Magnifying_glass_icon.svg.png"></a>Ver artigo principal: 
+                    <a href="https://pt.wikipedia.org/wiki/Software_de_sistema">Software de sistema</a>
+                </span>  
+                <p>
+                    O software é um conjunto de programas de computador e dados relacionados que fornece instruções para um computador. Software refere-se a um ou mais programas de computador e dados mantidos no armazenamento do computador. É um conjunto de programas, procedimentos, algoritmos, bem como sua documentação relacionada à operação de um sistema de processamento de dados. O software de programa executa a função do programa que implementa, seja fornecendo instruções diretamente ao hardware do computador ou servindo como entrada para outro software. O termo foi criado para contrastar com o antigo termo hardware (que significa "dispositivos físicos"). Em contraste com o hardware, o software é intangível.[20]
+                </p>
+
+                <p>
+                    Às vezes, o software também é usado em um sentido mais restrito, significando apenas software de aplicação.
+                </p>
+                
+                <h2>Ver também <hr></h2>
+                <ul>
+                    <li><a href="https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_cient%C3%ADfica" >Computação científica</a></li>  
+                    <li><a href="https://pt.wikipedia.org/wiki/Inform%C3%A1tica" >Informática</a></li>
+                    <li><a href="https://pt.wikipedia.org/wiki/Modelagem_computacional" >Modelagem computacional</a></li>
+                    <li><a href="https://pt.wikipedia.org/wiki/Teoria_da_computa%C3%A7%C3%A3o">Teoria da computação</a></li>       
+                </ul>
+        
+            </div>
+
+            <div class="anchors">
+                <h2>Neste Artigo</h2>
+                <ul>
+                    <li><a href="#História">História</a></li>
+                    <li><a href="#Computador">Computador</a></li>
+                    <li><a href="#Hardware de computador">Hardware de computador</a></li>
+                    <li><a href="#Software de computador">Software de computador</a></li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer">
+            Por CEPID NeuroMat, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52742514">Hiperligação</a>
+        </div>
+    </footer>
+</body>
+</html>
